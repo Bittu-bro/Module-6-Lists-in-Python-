@@ -1,2 +1,3 @@
-a = "hello world"
-print(a)
+a = "hello world,"
+b = "I am learning git."
+print(f"{a}\n{b}")
