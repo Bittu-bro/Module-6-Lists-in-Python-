@@ -1,12 +1,12 @@
-#if you want want decimal table then use fun1
+#if you want decimal table then use fun1
                    #fun1 
 #num = float(input("Enter your \'Decimal\' number: "))
 
 
 
 
-#if you want want integer table then use fun2
-                   #fun2 = 
+#if you want integer table then use fun2
+                   #fun2
 num = int(input("Enter your \'Integer\' number: "))
 
 
